@@ -49,8 +49,8 @@ https://user-images.githubusercontent.com/72432569/136819806-b283adbe-81ae-4893-
 
 
 
-
-## NOTE :- models are not uploaded to get the models connect with me on  <a href= https://www.linkedin.com/in/pradeepodela/>Linkedin</a>
+## MODELS :- get the models   <a href="https://drive.google.com/drive/folders/1fIKWushTIPYDZmH5VLIzB4yNbwAQXqbZ?usp=sharing">Here!</a>
+## NOTE :- models are resticeted for limited members to access the models connect with me on  <a href= https://www.linkedin.com/in/pradeepodela/>Linkedin</a>
 ## Run Locally
 
 Clone the project
