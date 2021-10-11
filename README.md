@@ -76,6 +76,14 @@ Start the server
 ```bash
   streamlit run main.py 
 ```
+## Technology's used
+![image](https://user-images.githubusercontent.com/72432569/136822702-97ed7a69-e38d-4d8d-a1e2-9b47e4fb81de.png) ![image](https://user-images.githubusercontent.com/72432569/136822780-ada92bb2-d81d-466f-a310-b6d9dd98187f.png) ![image](https://user-images.githubusercontent.com/72432569/136822874-49a47688-b71b-4f7b-8d10-dd9b07b1d43c.png)
+![image](https://user-images.githubusercontent.com/72432569/136822943-8935c5e9-4946-482b-9506-e876bc77c4db.png) ![image](https://user-images.githubusercontent.com/72432569/136823076-cb0ed637-858a-4452-983f-5eccbd4a8b65.png) 
+
+
+
+
+
 
   
 ## Authors
